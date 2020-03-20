@@ -14,7 +14,7 @@ sharing the same first name with other students.
       
       
       
-In other way solution folder i solved the question 1 by declaring the name before only .Question 3  is solve by using list instead of file(This is not exact solution but i try in other way)     
+In other way solution folder i solved the question 1 by declaring the name before only .Question 3  is solve by using list instead of file(This is not exact solution but i try in other way )     
       
       
       
